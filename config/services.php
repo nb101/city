@@ -31,4 +31,8 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'countries_api' => [
+        'url' =>  env('COUNTRIES_API', 'https://countriesnow.space/api/v0.1/countries/capital'),
+    ],
+
 ];
