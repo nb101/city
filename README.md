@@ -9,6 +9,8 @@
     php artisan:serve
    
 navigate to server url
+
+
 2. **in another terminal **
    ```bash
     run npm run dev
