@@ -11,7 +11,7 @@
 navigate to server url
 
 
-2. **in another terminal **
+2. **in another terminal run **
    ```bash
-    run npm run dev
+     npm run dev
 
